@@ -7,8 +7,8 @@ const dc = require ('discord.js')
   .setColor('RANDOM')
   .setThumbnail(client.user.displayAvatarURL())
   .addField('⚙️ Made by', '`hooman.#2021 Newbie CODER`')
-  .addField('🔧 Developed by', '`NINJA PEACE, Cute Bear & hooman.`') 
-  .addField('☕ Thank`s to', '`NINJA PEACE & Cute Bear For Help Me`')
+  .addField('🔧 Developed by', '`Muhammad Farel, Genetic Freak.`') 
+  .addField('☕ Thank`s to', '`Muhammad Farel & Genetic Freak Team`')
   .addField('CREDIT', '`Hi saya Martin, Saya dibuat untuk membantu dalam segala hal. mungkin beberapa perintah hilang, tapi saya harap Anda menyukainya.`')
   
   message.channel.send(y);
